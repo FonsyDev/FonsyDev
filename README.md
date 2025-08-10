@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola! Mi nombre es Alfonso Amor
 
-## Soy Físico y Profesor de Informática en Educación Secundaria
+### Soy Físico y Profesor de Informática en Educación Secundaria
 
 - 🔭 Actualmente trabajando como profesor de Administración de Sistemas Informáticos en Red e Inteligencia Artificial y Big Data
 - 🌱 Actualmente aprendiendo Deep Learning avanzado, entrenamiento de modelos LLM y desarrollo de aplicaciones móviles
