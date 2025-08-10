@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Saludos! Mi nombre es Alfonso Amor
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola! Mi nombre es Alfonso Amor
 
-## Soy Físico y Profesor de Educación Secundaria
+## Soy Físico y Profesor de Informática en Educación Secundaria
 
 - 🔭 Actualmente trabajando como profesor de Administración de Sistemas Informáticos en Red e Inteligencia Artificial y Big Data
 - 🌱 Actualmente aprendiendo 
