@@ -8,4 +8,4 @@
 - 🤔 Buscando ayuda en 
 - 💬 Pregúntame sobre 
 - 📫 Contacta conmigo a través de aamorc06@educarex.es
-- ⚡ Fun fact: me encanta picar código
+- ⚡ **"It is growth . . . then decay . . . then transformation!!!"**
