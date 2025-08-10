@@ -8,4 +8,4 @@
 - 🤔 Buscando ayuda en 
 - 💬 Pregúntame sobre 
 - 📫 Contacta conmigo a través de aamorc06@educarex.es
-- ⚡ **"It is growth . . . then decay . . . then transformation!!!"**
+- ⚡ *"It is **growth** . . . then **decay** . . . then **transformation**!!!"*
